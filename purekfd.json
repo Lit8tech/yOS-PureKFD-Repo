@@ -1,0 +1,90 @@
+{
+    "spec":"1.0",
+    "repotype":"purekfdextended",
+    "name": "yOS Yo-kai Watch Mod Repo",
+    "description": "A PureKFD repository that hosts mods for Yo-kai Watch Mobile games on iOS!",
+    "icon": "icons/RepoIcon.png",
+    "featured": [
+        {
+            "name": "Yo-kai Watch Puni Puni: English Translation! (Extras)",
+            "bundleid": "com.ywpen.lit8.extra",
+            "banner": "icons/YWPBanner.png",
+            "fontcolor":"black",
+	    "showname":true
+        }
+    ],
+    "packages": [
+        {
+            "name": "Yo-kai Watch Puni Puni: English Translation! (Images 1/2)",
+            "bundleid": "com.ywpen.lit8.images1",
+            "author": "PTR",
+            "description": "A translation for the mobile game Yo-kai Watch Puni Puni.",
+            "long_description": "A translation project for the the popular Japanese mobile game, Yo-kai Watch Puni Puni.",
+            "version": "1.0",
+            "icon": "icons/YWPIcon.png",
+            "banner":"icons/YWPBanner.png",
+            "path": "Tweaks/com.ywpen.lit8.images1.purekfd",
+            "screenshots":["icons/YWPScreenshot.png"]
+        },
+        {
+            "name": "Yo-kai Watch Puni Puni: English Translation! (Images 2/2)",
+            "bundleid": "com.ywpen.lit8.images2",
+            "author": "PTR",
+            "description": "A translation for the mobile game Yo-kai Watch Puni Puni.",
+            "long_description": "A translation project for the the popular Japanese mobile game, Yo-kai Watch Puni Puni.",
+            "version": "1.0",
+            "icon": "icons/YWPIcon.png",
+            "banner":"icons/YWPBanner.png",
+            "path": "Tweaks/com.ywpen.lit8.images2.purekfd",
+            "screenshots":["icons/YWPScreenshot.png"]
+        },
+        {
+            "name": "Yo-kai Watch Puni Puni: English Translation! (Extras)",
+            "bundleid": "com.ywpen.lit8.extra",
+            "author": "PTR",
+            "description": "A translation for the mobile game Yo-kai Watch Puni Puni.",
+            "long_description": "A translation project for the the popular Japanese mobile game, Yo-kai Watch Puni Puni.",
+            "version": "1.0",
+            "icon": "icons/YWPIcon.png",
+            "banner":"icons/YWPBanner.png",
+            "path": "Tweaks/com.ywpen.lit8.extra.purekfd",
+            "screenshots":["icons/YWPScreenshot.png"]
+        },
+        {
+            "name": "Yo-kai Watch Puni Puni: English Translation! (Sound 1/3)",
+            "bundleid": "com.ywpen.lit8.sound1",
+            "author": "PTR",
+            "description": "A translation for the mobile game Yo-kai Watch Puni Puni.",
+            "long_description": "A translation project for the the popular Japanese mobile game, Yo-kai Watch Puni Puni.",
+            "version": "1.0",
+            "icon": "icons/YWPIcon.png",
+            "banner":"icons/YWPBanner.png",
+            "path": "Tweaks/com.ywpen.lit8.sound1.purekfd",
+            "screenshots":["icons/YWPScreenshot.png"]
+        },
+        {
+            "name": "Yo-kai Watch Puni Puni: English Translation! (Sound 2/3)",
+            "bundleid": "com.ywpen.lit8.sound2",
+            "author": "PTR",
+            "description": "A translation for the mobile game Yo-kai Watch Puni Puni.",
+            "long_description": "A translation project for the the popular Japanese mobile game, Yo-kai Watch Puni Puni.",
+            "version": "1.0",
+            "icon": "icons/YWPIcon.png",
+            "banner":"icons/YWPBanner.png",
+            "path": "Tweaks/com.ywpen.lit8.sound2.purekfd",
+            "screenshots":["icons/YWPScreenshot.png"]
+        },
+        {
+            "name": "Yo-kai Watch Puni Puni: English Translation! (Sound 3/3)",
+            "bundleid": "com.ywpen.lit8.sound3",
+            "author": "PTR",
+            "description": "A translation for the mobile game Yo-kai Watch Puni Puni.",
+            "long_description": "A translation project for the the popular Japanese mobile game, Yo-kai Watch Puni Puni.",
+            "version": "1.0",
+            "icon": "icons/YWPIcon.png",
+            "banner":"icons/YWPBanner.png",
+            "path": "Tweaks/com.ywpen.lit8.sound3.purekfd",
+            "screenshots":["icons/YWPScreenshot.png"]
+        }
+    ]
+}
