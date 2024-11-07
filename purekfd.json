@@ -85,6 +85,18 @@
             "banner":"icons/YWPBanner.png",
             "path": "Tweaks/com.ywpen.lit8.sound3.purekfd",
             "screenshots":["icons/YWPScreenshot.png"]
+        },
+        {
+            "name": "Yo-kai Watch Puni Puni and Yo-kai Watch 1 For Smartphone: English Translation! (IPA)",
+            "bundleid": "com.ywpen.lit8.ipa.test",
+            "author": "PTR",
+            "description": "A translation for the mobile games Yo-kai Watch Puni Puni and Yo-kai Watch 1 For Smartphone.",
+            "long_description": "A translation project for the the popular Japanese mobile games, Yo-kai Watch Puni Puni and Yo-kai Watch 1 For Smartphone.",
+            "version": "1.0",
+            "icon": "icons/YWPIcon.png",
+            "banner":"icons/YWPBanner.png",
+            "path": "Tweaks/com.ywpen.lit8.ipa.test.purekfd",
+            "screenshots":["icons/YWPScreenshot.png"]
         }
     ]
 }
